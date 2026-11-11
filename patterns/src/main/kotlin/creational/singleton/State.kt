@@ -1,0 +1,1 @@
+class State<T>(var value:T)
